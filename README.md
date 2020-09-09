@@ -24,4 +24,4 @@ This is AWS Lambda function to collect Cloudwatch logs using lambda and send the
 ### Setting CloudWatch log event trigger
  - Under Add triggers at the top of the page, select the CloudWatch Log trigger.
  - In the Configure triggers section, you will then be required to enter the log group from which the Logz.io Lambda collects the logs. You will also need to enter a filter name. 
- - Click Add to add the trigger and Save at the top of the page to save all your configurations. 
+ - Click Add to add the trigger and Save at the top of the page to save all your configurations.
